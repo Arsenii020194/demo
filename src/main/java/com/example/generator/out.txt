@@ -1,0 +1,500 @@
+7316 4917 4520 7142-/card
+4921 4541 8610 2960-/card
+2703 9114 9861 3080-/card
+6105 9907 8507 0528-/card
+2460 1891 8301 9310-/card
+5623 3663 6974 6776-/card
+4884 2894 1914 6626-/card
+6791 7059 1523 3622-/card
+4686 2042 2977 7476-/card
+7789 1629 8780 2198-/card
+Олёкминск-/city
+Губаха-/city
+Цимлянск-/city
+Славянск-на-Кубани-/city
+Реутов-/city
+Козловка-/city
+Рославль-/city
+Володарск-/city
+Березники-/city
+Озёрск-/city
+поселок-/cityType
+город-/cityType
+поселок-/cityType
+поселок-/cityType
+деревня-/cityType
+поселок-/cityType
+город-/cityType
+деревня-/cityType
+деревня-/cityType
+город-/cityType
+161-/cvv
+316-/cvv
+560-/cvv
+683-/cvv
+230-/cvv
+016-/cvv
+625-/cvv
+847-/cvv
+806-/cvv
+133-/cvv
+паспорт-/document
+загранспорт-/document
+паспорт-/document
+пенсионное удостоверение-/document
+загранспорт-/document
+загранспорт-/document
+загранспорт-/document
+пенсионное удостоверение-/document
+пенсионное удостоверение-/document
+загранспорт-/document
+неоконченное высшее-/education
+неоконченное средне-специальное-/education
+высшее-/education
+неоконченное среднее-/education
+неоконченное среднее-/education
+неоконченное высшее-/education
+неоконченное среднее-/education
+начальное-/education
+неоконченное средне-специальное-/education
+неоконченное высшее-/education
+холост-family/male
+женат-family/male
+женат-family/male
+женат-family/male
+женат-family/male
+женат-family/male
+женат-family/male
+холост-family/male
+женат-family/male
+холост-family/male
+не замужем-family/female
+замужем-family/female
+не замужем-family/female
+замужем-family/female
+не замужем-family/female
+не замужем-family/female
+не замужем-family/female
+замужем-family/female
+не замужем-family/female
+замужем-family/female
+Ralph Cedric Wood-generateFio/en
+Bridget Burton Patterson-generateFio/en
+Curtis Angus Ramirez-generateFio/en
+Jemima Cameron Bailey-generateFio/en
+Norton Bertrand Garcia-generateFio/en
+Augustus Andrew Scott-generateFio/en
+Beatrice Conrad Foster-generateFio/en
+Hodierna Cecil Reed-generateFio/en
+Norbert Izzy Patterson-generateFio/en
+Charis Philip Mitchell-generateFio/en
+Шестаков Улеб Валентинович-generateFio/ru
+Никонова София Христофоровна-generateFio/ru
+Зыкова Елена Алексеевна-generateFio/ru
+Мартынова Антонина Константиновна-generateFio/ru
+Фомичёв Егор Федосеевич-generateFio/ru
+Трофимова Прасковья Макаровна-generateFio/ru
+Зыкова Елена Алексеевна-generateFio/ru
+Федосеев Парфений Андреевич-generateFio/ru
+Лихачёва Лариса Юлиановна-generateFio/ru
+Рогов Глеб Лукьянович-generateFio/ru
+Сорокин Парфений Вячеславович-generateFio/men
+Лобанов Ким Игнатьевич-generateFio/men
+Orson Philip Anderson-generateFio/men
+Мишин Тихон Яковович-generateFio/men
+Owen Brandon Morris-generateFio/men
+Austin Alphonso Wilson-generateFio/men
+Calvin Bartholomew Evans-generateFio/men
+Красильников Валерий Юлианович-generateFio/men
+Копылов Юлиан Богданович-generateFio/men
+Arnold Quincy Cook-generateFio/men
+Jolie Arthur Thomas-generateFio/women
+Imogen Randall Walker-generateFio/women
+Носова Антонина Лукьяновна-generateFio/women
+Пахомова Татьяна Куприяновна-generateFio/women
+Гришина Тамара Григорьевна-generateFio/women
+Воробьёва Мария Павловна-generateFio/women
+Iona Brandon Brown-generateFio/women
+Носова Антонина Лукьяновна-generateFio/women
+Judith Clement Bell-generateFio/women
+Adele Bruce Edwards-generateFio/women
+5222676524747-/ogrn
+1531179586519-/ogrn
+15801030102100-/ogrn
+5737663714211-/ogrn
+1652323852388-/ogrn
+1475373546141-/ogrn
+15301057506152-/ogrn
+5307746221668-/ogrn
+1690296752716-/ogrn
+1068091062247-/ogrn
+1263310535069-/ogrnp/ur
+5657102314633-/ogrnp/ur
+5591283052025-/ogrnp/ur
+1673749408419-/ogrnp/ur
+5806136531558-/ogrnp/ur
+5915958048286-/ogrnp/ur
+5748532732800-/ogrnp/ur
+1245132880035-/ogrnp/ur
+1007233046160-/ogrnp/ur
+5693530253136-/ogrnp/ur
+228-745-833 93-/snils
+846-588-315 53-/snils
+764-262-173 97-/snils
+147-438-215 64-/snils
+346-632-822 77-/snils
+272-752-162 67-/snils
+254-241-344 32-/snils
+757-115-214 84-/snils
+587-548-777 73-/snils
+438-525-373 90-/snils
+7351471127-/inn/ur
+3289437879-/inn/ur
+8184848655-/inn/ur
+3034515584-/inn/ur
+4536133277-/inn/ur
+0864786120-/inn/ur
+8989348567-/inn/ur
+2270646387-/inn/ur
+3319835661-/inn/ur
+8877337567-/inn/ur
+775426517876-/inn/fiz
+769452287595-/inn/fiz
+771543447223-/inn/fiz
+206125457345-/inn/fiz
+369457655403-/inn/fiz
+866743754643-/inn/fiz
+464518676502-/inn/fiz
+0103348182542-/inn/fiz
+747647541783-/inn/fiz
+270772311349-/inn/fiz
+184773777-/kpp
+203929564-/kpp
+864011700-/kpp
+703036963-/kpp
+010919467-/kpp
+213748655-/kpp
+412017967-/kpp
+98367657-/kpp
+829126331-/kpp
+45935537-/kpp
+английский-/lang
+немецкий-/lang
+испанский-/lang
+норвежский-/lang
+китайский-/lang
+арабский-/lang
+французский-/lang
+испанский-/lang
+чешский-/lang
+английский-/lang
+Hyundai-/markTS/en
+Great Wall-/markTS/en
+Lexus-/markTS/en
+Subaru-/markTS/en
+Aro-/markTS/en
+BMW Alpina-/markTS/en
+LIFAN-/markTS/en
+Daihatsu -/markTS/en
+BMW -/markTS/en
+BMW Alpina-/markTS/en
+газобетонные блоки-/material
+керамоблок-/material
+кирпич-/material
+гипсокартон-/material
+газобетонные блоки-/material
+гипсокартон-/material
+кирпич-/material
+дерево-/material
+дерево-/material
+гипсокартон-/material
+Cassius-/name/en
+Imelda-/name/en
+Annabel-/name/en
+Arabella-/name/en
+Carey-/name/en
+Augustus-/name/en
+Charis-/name/en
+Adele-/name/en
+Bella-/name/en
+Colin-/name/en
+Елизавета-/name/ru
+Вероника-/name/ru
+Митрофан-/name/ru
+Анжелика-/name/ru
+Пелагея-/name/ru
+Кондрат-/name/ru
+Владимир-/name/ru
+Демьян-/name/ru
+Синклитикия-/name/ru
+Лукия-/name/ru
+Пелагея-/name/women
+Helene-/name/women
+June-/name/women
+Isla-/name/women
+Лукия-/name/women
+Алла-/name/women
+Надежда-/name/women
+Оксана-/name/women
+Hero-/name/women
+Helen-/name/women
+Демьян-/name/men
+Лукьян-/name/men
+Лаврентий-/name/men
+Bradley-/name/men
+Лукьян-/name/men
+Abel-/name/men
+Archibald-/name/men
+Owen-/name/men
+Claude-/name/men
+Станислав-/name/men
+оао-/opf
+оао-/opf
+нко-/opf
+ооо-/opf
+нко-/opf
+нко-/opf
+ооо-/opf
+ип-/opf
+ип-/opf
+зао-/opf
+female-/generateSex/en
+female-/generateSex/en
+male-/generateSex/en
+female-/generateSex/en
+female-/generateSex/en
+female-/generateSex/en
+male-/generateSex/en
+female-/generateSex/en
+female-/generateSex/en
+male-/generateSex/en
+мужской-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+женский-/generateSex/ru
+männlich-/generateSex/de
+männlich-/generateSex/de
+männlich-/generateSex/de
+weiblich-/generateSex/de
+weiblich-/generateSex/de
+männlich-/generateSex/de
+weiblich-/generateSex/de
+weiblich-/generateSex/de
+weiblich-/generateSex/de
+männlich-/generateSex/de
+право владения-/propetyRight
+право владения-/propetyRight
+право пользования-/propetyRight
+право пользования-/propetyRight
+право пользования-/propetyRight
+право пользования-/propetyRight
+право пользования-/propetyRight
+право пользования-/propetyRight
+право пользования-/propetyRight
+право владения-/propetyRight
+удовлетворительное-/stateFlat
+удовлетворительное-/stateFlat
+хорошее-/stateFlat
+хорошее-/stateFlat
+отличное-/stateFlat
+неудовлетворительное-/stateFlat
+отличное-/stateFlat
+отличное-/stateFlat
+неудовлетворительное-/stateFlat
+удовлетворительное-/stateFlat
+Bennett-/surname/en
+Thomas-/surname/en
+Adams-/surname/en
+Powell-/surname/en
+Taylor-/surname/en
+Cox-/surname/en
+Allen-/surname/en
+Kelly-/surname/en
+Taylor-/surname/en
+Gonzalez-/surname/en
+Голубев-/surname/ru
+Кузнецова-/surname/ru
+Кабанова-/surname/ru
+Субботин-/surname/ru
+Ефремова-/surname/ru
+Харитонов-/surname/ru
+Баранов-/surname/ru
+Селезнёв-/surname/ru
+Савельева-/surname/ru
+Рыбакова-/surname/ru
+Sanchez-/surname/women
+Боброва-/surname/women
+Сорокина-/surname/women
+Ward-/surname/women
+Соболева-/surname/women
+Hughes-/surname/women
+Силина-/surname/women
+Hall-/surname/women
+Jones-/surname/women
+Price-/surname/women
+Carter-/surname/men
+Diaz-/surname/men
+Cox-/surname/men
+Price-/surname/men
+Чернов-/surname/men
+Bennett-/surname/men
+Harris-/surname/men
+﻿Smith-/surname/men
+Ross-/surname/men
+Parker-/surname/men
+Nevill-/name/en
+June-/name/en
+Anna-/name/en
+Cassius-/name/en
+Quincy-/name/en
+Ralph-/name/en
+Cassius-/name/en
+Augusta-/name/en
+Audrey-/name/en
+Abraham-/name/en
+Вероника-/name/ru
+Пелагея-/name/ru
+Серапион-/name/ru
+Елизавета-/name/ru
+Николай-/name/ru
+Артём-/name/ru
+Ираида-/name/ru
+Всеволод-/name/ru
+Надежда-/name/ru
+Ириней-/name/ru
+Ангелина-/name/women
+Евгения-/name/women
+Bronwen-/name/women
+Hope-/name/women
+Александра-/name/women
+Candy-/name/women
+Эмилия-/name/women
+Октябрина-/name/women
+Елизавета-/name/women
+Лукия-/name/women
+16:35:58-/time
+16:57:01-/time
+20:46:41-/time
+23:15:32-/time
+10:23:16-/time
+12:55:11-/time
+22:60:52-/time
+06:55:44-/time
+20:58:49-/time
+20:16:36-/time
+Betty-/name/en
+Annabel-/name/en
+Amanda-/name/en
+Carlene-/name/en
+Abner-/name/en
+Jennifer-/name/en
+Alice-/name/en
+Clive-/name/en
+Carol-/name/en
+Arabella-/name/en
+Милица-/name/ru
+Юлия-/name/ru
+Евпраксия-/name/ru
+Серапион-/name/ru
+Евгения-/name/ru
+Юлия-/name/ru
+Олимпиада-/name/ru
+Октябрина-/name/ru
+Эмилия-/name/ru
+Ксения-/name/ru
+Анжела-/name/women
+Алевтина-/name/women
+Алевтина-/name/women
+Лукия-/name/women
+Jaime-/name/women
+Вероника-/name/women
+Averil-/name/women
+Agatha-/name/women
+Bella-/name/women
+София-/name/women
+подполковник-/militaryRunk
+старший прапорщик-/militaryRunk
+капитан-/militaryRunk
+генерал-майор-/militaryRunk
+младший сержант-/militaryRunk
+подполковник-/militaryRunk
+маршал-/militaryRunk
+полковник-/militaryRunk
+генерал-майор-/militaryRunk
+полковник-/militaryRunk
+Oscar-/name/en
+Carol-/name/en
+Alister-/name/en
+Aviva-/name/en
+Aaron-/name/en
+Jane-/name/en
+Holly-/name/en
+Judith-/name/en
+Carmelita-/name/en
+Carolyn-/name/en
+Федот-/name/ru
+Октябрина-/name/ru
+Лукия-/name/ru
+Георгий-/name/ru
+Полина-/name/ru
+Екатерина-/name/ru
+Дмитрий-/name/ru
+София-/name/ru
+София-/name/ru
+Кондрат-/name/ru
+Helene-/name/women
+Лидия-/name/women
+Лариса-/name/women
+Клавдия-/name/women
+Agatha-/name/women
+Isla-/name/women
+Audrey-/name/women
+Клавдия-/name/women
+Alice-/name/women
+Jaime-/name/women
+прицеп-/ts
+прицеп-/ts
+грузовой автомобиль-/ts
+прицеп-/ts
+легковой автомобиль-/ts
+мопед-/ts
+маршрутное ТС-/ts
+мопед-/ts
+мопед-/ts
+легковой автомобиль-/ts
+проезд-/typeStreet
+шоссе-/typeStreet
+проезд-/typeStreet
+шоссе-/typeStreet
+проезд-/typeStreet
+проезд-/typeStreet
+переулок-/typeStreet
+переулок-/typeStreet
+переулок-/typeStreet
+улица-/typeStreet
+8589-/pin
+8618-/pin
+6427-/pin
+5374-/pin
+7319-/pin
+6176-/pin
+0676-/pin
+5999-/pin
+1378-/pin
+4714-/pin
+фиолетовый-/color
+голубой-/color
+фиолетовый-/color
+желтый-/color
+оранжевый-/color
+фиолетовый-/color
+желтый-/color
+оранжевый-/color
+голубой-/color
+желтый-/color
